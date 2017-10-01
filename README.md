@@ -1,6 +1,7 @@
 # exercice-repo
-Repo made for exercice
-We resolved the conflict!
+This project will contain...
+Repo made for exercice.
+Hello, again!!!
 
 
 
